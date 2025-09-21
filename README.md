@@ -2,9 +2,9 @@
   <img width="403" height="65" alt="image" src="https://github.com/user-attachments/assets/95416299-a06d-42a8-a81f-ad82de7cd432" />
 </p>
 
-# Accessing Windows 10 Remote Desktop on Azure VM via IP Address
+# How to Access Windows 10 Remote Desktop on Azure VM with Public IP
 
-Hey there! Welcome to this tutorial. I’ll walk you through the entire process of setting up and connecting to a **Remote Desktop (RDP)** session on an **Azure Virtual Machine** using its **Public IP address**. By the end of this guide, you'll be able to access your Azure VM from anywhere—super handy, right?
+Hey there! Welcome to this tutorial. I’ll walk you through the entire process of setting up and connecting to a **Remote Desktop (RDP)** session on an **Azure Virtual Machine** using its **Public IP address**. By the end of this guide, you'll be able to access your Azure VM from anywhere.
 
 ---
 
